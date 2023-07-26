@@ -1,0 +1,43 @@
+.bg-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(to bottom, #fbc7d4, #9796f0);
+  height: 100vh;
+  flex-direction: column;
+}
+
+.card-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  border-radius: 10px;
+  padding: 30px;
+}
+
+.content-image {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.appointments {
+  width: 300px;
+}
+
+.line {
+  width: 100%;
+}
+
+.starred {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.starred-button {
+  border-radius: 10px;
+  padding: 5px;
+}

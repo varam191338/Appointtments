@@ -1,0 +1,14 @@
+.start-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-width: 2px;
+}
+
+.star {
+  height: 20px;
+}
+
+.appointments {
+  border-width: 2px;
+}
